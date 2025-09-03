@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Trivesh Dubey
+# 🌐 Personal Portfolio – Navin Kashyap
 
 This is my personal portfolio website built with **React.js** and **EmailJS**, designed to showcase my skills, projects, and experience.  
 It is fully responsive, modern, and deployed on **Netlify**.
