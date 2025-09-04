@@ -3,7 +3,7 @@
 This is my personal portfolio website built with **React.js** and **EmailJS**, designed to showcase my skills, projects, and experience.  
 It is fully responsive, modern, and deployed on **Netlify**.
 
-🔗 Live Demo: [trivesh.netlify.app](https://trivesh.netlify.app/)
+🔗 Live Demo: (https://abautme.netlify.app/)
 
 ---
 
@@ -27,7 +27,7 @@ It is fully responsive, modern, and deployed on **Netlify**.
 
 Clone the repo:
 ```bash
-git clone https://github.com/trivesh1/Trivesh-PortPholio/
+git clone https://github.com/Navinkashyap/aboutMe
 cd <Trivesh-PortPholio>
 npm install
 npm run build
